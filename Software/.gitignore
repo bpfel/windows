@@ -1,0 +1,4 @@
+build/
+build_release/
+*.a
+dlib_build/

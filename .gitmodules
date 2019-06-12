@@ -1,0 +1,3 @@
+[submodule "Software/FaceDetection/dlib"]
+	path = Software/FaceDetection/dlib
+	url = https://github.com/davisking/dlib/
