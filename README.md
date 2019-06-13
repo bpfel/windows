@@ -61,7 +61,7 @@ sudo ldconfig
 
 ## OpenGL Dependencies
 
-Install homebrew and add it to the path to help with installing the OpenGL dependencies.
+Install the OpenGL dependencies.
 
 ```sh
 sudo apt-get install libsoil-dev libglm-dev libassimp-dev libglew-dev libglfw3-dev libxinerama-dev libxcursor-dev libxi-dev -y
